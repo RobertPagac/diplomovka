@@ -7,9 +7,7 @@ Repozitár k diplomovej práci
 - hotové vývojové prostredie s testom knižníc
 - preštudované knižnice
 - Kostra LaTeX textu diplomovej práce,
-- prvé strány diplomovej práce
 
 ## Plánované ciele
 - nájsť ďalšie vhodné vedecké články
 - implementácia
-- pokračovanie v písaní diplomovej práce

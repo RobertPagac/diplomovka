@@ -4,10 +4,13 @@ Repozitár k diplomovej práci
 ## Splnené ciele
 - vybratie prvých vedeckých článkov a ich preštudovanie 
 - GitHub repozitár k diplomovej práci
-- hotové vývojové prostredie s testom knižníc
 - preštudované knižnice
-- Kostra LaTeX textu diplomovej práce,
+- Kostra LaTeX textu diplomovej práce
+- Prvé strany kapitoly výskum
+- Implementácia generovania textúr a doplnkových máp
+- 
 
 ## Plánované ciele
-- nájsť ďalšie vhodné vedecké články
-- implementácia
+- aplikovanie vygenerovaných textúr na 3D objekty
+- nájsť ďalšie vhodné zdroje
+- dokončenie písanie diplomovej práce

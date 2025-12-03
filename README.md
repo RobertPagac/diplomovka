@@ -15,3 +15,6 @@ Robert Pagáč
 - aplikovanie vygenerovaných textúr na 3D objekty
 - nájsť ďalšie vhodné zdroje
 - dokončenie písanie diplomovej práce
+
+Odkaz na spustiteľný kód:
+https://colab.research.google.com/drive/1X1yFIJveLww4BJHUUxGnk7idi9J1Qadi?usp=sharing

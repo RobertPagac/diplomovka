@@ -8,7 +8,6 @@ Repozitár k diplomovej práci
 - Kostra LaTeX textu diplomovej práce
 - Prvé strany kapitoly výskum
 - Implementácia generovania textúr a doplnkových máp
-- 
 
 ## Plánované ciele
 - aplikovanie vygenerovaných textúr na 3D objekty

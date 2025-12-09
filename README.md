@@ -16,5 +16,14 @@ Repozitár k diplomovej práci
 - nájsť ďalšie vhodné zdroje
 - dokončenie písanie diplomovej práce
 
+## Denník
+- September: Nájdenie vhodných knižníc, Implementácia generovanie textúr pomocou knižnide Stable Diffusions
+- Október: Úprava generovania aj pomocou vstupných obrázkov pomocou Img2img pipeline.
+- November: Implementácia generovanie výškových a normálových má
+- December: Začiatok písania diplomovej práce, príprava meteriálov pre projektový seminár 2
+- Janurár: Dokončenie implementácie, pridať výber časti obrázka na generovanie dannej textúry.
+- Február: Začiatok písania ďalších kapitol. 
+- ...
+
 Odkaz na spustiteľný kód:
 https://colab.research.google.com/drive/1X1yFIJveLww4BJHUUxGnk7idi9J1Qadi?usp=sharing

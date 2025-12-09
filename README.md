@@ -21,7 +21,7 @@ Repozitár k diplomovej práci
 - Október: Úprava generovania aj pomocou vstupných obrázkov pomocou Img2img pipeline.
 - November: Implementácia generovanie výškových a normálových máp na základe vygenerovanie textúry.
 - December: Začiatok písania diplomovej práce, príprava materiálov a prezentácie pre projektový seminár 2.
-- Janurár: Dokončenie implementácie, pridať výber časti obrázka a na generovanie textúry na základe zvolenej časti.
+- Janurár: Do implementácie pridať výber časti obrázka a následné generovanie textúry na základe zvolenej časti.
 - Február: Začiatok písania ďalších kapitol. 
 - ...
 

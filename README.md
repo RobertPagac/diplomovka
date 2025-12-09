@@ -19,9 +19,9 @@ Repozitár k diplomovej práci
 ## Denník
 - September: Nájdenie vhodných knižníc, Implementácia generovanie textúr pomocou knižnide Stable Diffusions
 - Október: Úprava generovania aj pomocou vstupných obrázkov pomocou Img2img pipeline.
-- November: Implementácia generovanie výškových a normálových má
-- December: Začiatok písania diplomovej práce, príprava meteriálov pre projektový seminár 2
-- Janurár: Dokončenie implementácie, pridať výber časti obrázka na generovanie dannej textúry.
+- November: Implementácia generovanie výškových a normálových máp na základe vygenerovanie textúry.
+- December: Začiatok písania diplomovej práce, príprava materiálov a prezentácie pre projektový seminár 2.
+- Janurár: Dokončenie implementácie, pridať výber časti obrázka a na generovanie textúry na základe zvolenej časti.
 - Február: Začiatok písania ďalších kapitol. 
 - ...
 

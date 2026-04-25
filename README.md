@@ -26,8 +26,8 @@ Repozitár k diplomovej práci
 ---
 
 ## Online verzia aplikácie
-Ak nechcete nič inštalovať, môžete použiť hlavnú webovú aplikáciu bežiacu na cloudovej infraštruktúre:
-👉 **[https://seamlesstextures.netlify.app/](https://seamlesstextures.netlify.app/)**
+Odkaz na finálnu hlavnú webovú aplikáciu na generovanie textúr:
+**[https://seamlesstextures.netlify.app/](https://seamlesstextures.netlify.app/)**
 
 Táto verzia využíva **Google Gemini API** a nevyžaduje žiadny lokálny výpočtový výkon – stačí otvoriť v prehliadači a generovať.
 

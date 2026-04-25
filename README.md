@@ -2,6 +2,7 @@
 Repozitár k diplomovej práci
 - Robert Pagáč
 - Školiteľ: Mgr. Andrej Mihálik, PhD.
+---
 
 ## Splnené ciele
 - vybratie prvých vedeckých článkov a ich preštudovanie 
@@ -10,11 +11,8 @@ Repozitár k diplomovej práci
 - Kostra LaTeX textu diplomovej práce
 - Prvé strany kapitoly výskum
 - Implementácia generovania textúr a doplnkových máp
-
-## Plánované ciele
-- aplikovanie vygenerovaných textúr na 3D objekty
-- nájsť ďalšie vhodné zdroje
-- dokončenie písanie diplomovej práce
+- Všetky kapitoly diplomovej práce
+---
 
 ## Denník
 - September: Nájdenie vhodných knižníc, Implementácia generovanie textúr pomocou knižnide Stable Diffusions
@@ -23,7 +21,16 @@ Repozitár k diplomovej práci
 - December: Začiatok písania diplomovej práce, príprava materiálov a prezentácie pre projektový seminár 2.
 - Janurár: Do implementácie pridať výber časti obrázka a následné generovanie textúry na základe zvolenej časti.
 - Február: Začiatok písania ďalších kapitol. 
-- ...
+- Marec: Implementácia lokálneho modelu FLUX a pokračovanie v písaní ďalších kapitol.
+- Apríl: 
+---
 
-Odkaz na spustiteľný kód:
+## Online verzia aplikácie
+Ak nechcete nič inštalovať, môžete použiť hlavnú webovú aplikáciu bežiacu na cloudovej infraštruktúre:
+👉 **[https://seamlesstextures.netlify.app/](https://seamlesstextures.netlify.app/)**
+
+Táto verzia využíva **Google Gemini API** a nevyžaduje žiadny lokálny výpočtový výkon – stačí otvoriť v prehliadači a generovať.
+
+---
+## Odkaz na spustiteľný kód:
 https://colab.research.google.com/drive/1X1yFIJveLww4BJHUUxGnk7idi9J1Qadi?usp=sharing
